@@ -1,6 +1,8 @@
 ## 👩‍💻Camila dos Santos Gasparini
 
-**Data Analyst** 📊📈
+LinkedIn: https://www.linkedin.com/in/camilagasparini/
+
+**Data Analyst Junior** 📊📈
 
 Hello! 😊 My name is Camila, I live in Barcelona, Spain. I'm currently going through a career transition into the field of data analysis.
 This GitHub is a space where I will share the projects I'm working on to demonstrate the skills I am developing through study and dedication.
